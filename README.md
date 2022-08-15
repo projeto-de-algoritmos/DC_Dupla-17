@@ -1,27 +1,15 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+# Dividir e Conquistar - Dupla 17
 
-**Número da Lista**: X<br>
+**Número da Lista**: 17<br>
 **Conteúdo da Disciplina**: XXXXXXXXXX<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0124099  |  Juliana Pereira Valle Gonçalves |
+| 18/0106805  |  Mateus Cunha Maia |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
