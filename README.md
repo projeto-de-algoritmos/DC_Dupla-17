@@ -14,6 +14,9 @@
 ## Sobre 
 Este projeto tem como objetivo resolver exercícios encontrados nas plataformas Beecrowd e Codeforces utilizando o conteúdo de Dividir e Conquistar.
 
+## Apresentação
+A apresentação do projeto pode ser vista no seguinte [link](https://youtu.be/fgDPPsJhZzM).
+
 ## Screenshots
 ### Closest Pair
 [Link para o problema](https://www.beecrowd.com.br/judge/en/problems/view/1295)
