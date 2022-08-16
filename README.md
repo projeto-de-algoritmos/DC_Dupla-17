@@ -18,12 +18,12 @@ Este projeto tem como objetivo resolver exercícios encontrados nas plataformas 
 ### Closest Pair
 [Link para o problema](https://www.beecrowd.com.br/judge/en/problems/view/1295)
 
-![uri](./assets/uri.png)
+![uri](./assets/uri.jpeg)
 
 ### MergeSort
 [Link para o problema](https://codeforces.com/contest/873/problem/D)
 
-![uri](./assets/codeforces.png)
+![uri](./assets/codeforces.jpeg)
 
 ## Instalação 
 **Linguagem**: C++<br>
