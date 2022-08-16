@@ -12,21 +12,35 @@
 | 18/0106805  |  Mateus Cunha Maia |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto tem como objetivo resolver exercícios encontrados nas plataformas Beecrowd e Codeforces utilizando o conteúdo de Dividir e Conquistar.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Closest Pair
+[Link para o problema](https://www.beecrowd.com.br/judge/en/problems/view/1295)
+
+![uri](./assets/uri.png)
+
+### MergeSort
+[Link para o problema](https://codeforces.com/contest/873/problem/D)
+
+![uri](./assets/codeforces.png)
 
 ## Instalação 
 **Linguagem**: C++<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
+Para rodar as soluções, deve-se ter o C++ instalado.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para rodar localmente os algoritmos, deve-se rodar o comando 
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+``` shell
+    g++ -o teste main.cpp
+```
+e
 
-
+``` shell
+$ ./teste
+```
+e, por fim, colocar os inputs de teste disponibilizados.
 
 
